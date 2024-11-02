@@ -6,7 +6,7 @@ This open source project aims to replicate some of the Mac OS(Monterey, at the t
 
 🔗🔗 [macos-web.app](https://macos.now.sh)
 
-# Why
+# Why？
 
 I've always been very fascinated with macOS, and have never owned a Mac/book. So I'm making the most beautiful aspect of macOS, its desktop, myself. For web. Inspired from [WinXP](https://winxp.now.sh/).
 
